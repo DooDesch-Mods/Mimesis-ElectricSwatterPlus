@@ -4,6 +4,8 @@ Use charged electric attacks without draining energy. The swatter still wears ou
 
 > 🛟 **Need help or found a bug?** Get support at [support.doodesch.de/electricswatterplus](https://support.doodesch.de/electricswatterplus).
 
+![ElectricSwatterPlus in MIMESIS](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-ElectricSwatterPlus/main/docs/img/header.jpg)
+
 For MIMESIS and MelonLoader 0.7.3. A separate mod for the **Electric Swatter** (item 2040). Install any combination of the six weapon mods. No MimicAPI or separate weapon-core DLL is required.
 
 ## Install
@@ -43,6 +45,12 @@ Optional tuning starts at **1.0 = native**. The primary unlimited mode is enable
 | `RangeMultiplier` | `1.0` | Attack reach multiplier, 0.25-4 |
 | `CooldownMultiplier` | `1.0` | Attack skill cooldown multiplier, 0.1-5; animation duration stays native |
 | `ShowInfinity` | `true` | Local HUD only: show infinity for unlimited ammunition, energy or protected bat durability |
+
+## In game
+
+![The native Electric Swatter with infinite energy and normal wear.](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-ElectricSwatterPlus/main/docs/img/in-game.jpg)
+
+The native Electric Swatter with infinite energy and normal wear.
 
 ## Build
 
