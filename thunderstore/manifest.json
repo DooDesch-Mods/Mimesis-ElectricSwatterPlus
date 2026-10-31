@@ -1,0 +1,12 @@
+{
+  "name": "ElectricSwatterPlus",
+  "version_number": "0.0.0",
+  "website_url": "https://github.com/DooDesch-Mods/Mimesis-ElectricSwatterPlus",
+  "description": "Use charged electric attacks without draining energy. The swatter still wears out normally unless you enable durability protection.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ],
+  "contributors": [
+    "DooDesch"
+  ]
+}
