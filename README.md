@@ -4,6 +4,8 @@ Use charged electric attacks without draining energy. The swatter still wears ou
 
 > 🛟 **Need help or found a bug?** Get support at [support.doodesch.de/electricswatterplus](https://support.doodesch.de/electricswatterplus).
 
+[![Discord](https://mods.doodesch.de/img/badge.svg)](https://mods.doodesch.de)
+
 ![ElectricSwatterPlus in MIMESIS](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-ElectricSwatterPlus/main/docs/img/header.jpg)
 
 For MIMESIS and MelonLoader 0.7.3. A separate mod for the **Electric Swatter** (item 2040). Install any combination of the six weapon mods. No MimicAPI or separate weapon-core DLL is required.
@@ -55,3 +57,9 @@ The native Electric Swatter with infinite energy and normal wear.
 ## Build
 
 Build with .NET SDK 8 and the shared Mimesis workspace reference set. The project uses the same shared build, deployment guards and host-settings source as the other Mimesis mods. Shared helpers are compiled into this DLL.
+
+## Community
+
+[![DooDesch Mods on Discord](https://mods.doodesch.de/img/card.svg)](https://mods.doodesch.de)
+
+Join the DooDesch Mods Discord: update pings, polls on what comes next, and playtests of new mods.
